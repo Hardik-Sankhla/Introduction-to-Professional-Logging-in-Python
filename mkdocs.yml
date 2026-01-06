@@ -3,6 +3,9 @@ site_description: A comprehensive guide to professional logging practices in Pyt
 site_author: Hardik Sankhla
 site_url: https://hardik-sankhla.github.io/Introduction-to-Professional-Logging-in-Python/
 
+docs_dir: content
+site_dir: docs
+
 theme:
   name: material
   palette:
